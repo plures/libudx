@@ -13,5 +13,6 @@
   "homepage": "https://github.com/holepunchto/libudx#readme",
   "devDependencies": {
     "cmake-fetch": "^1.0.0"
-  }
+  },
+  "version": "0.1.0"
 }
